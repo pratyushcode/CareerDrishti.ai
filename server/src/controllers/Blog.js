@@ -14,6 +14,9 @@ async function GetBlog(req,res)
 
 }
 
+
+
+
 module.exports={
     GetBlog
 }
